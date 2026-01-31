@@ -17,4 +17,4 @@ def main():
                 s = before
         print(s)
 main()
-    
+     
